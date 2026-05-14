@@ -43,3 +43,5 @@ cd path/to/Task 6 Static Web Deployment
 ```bash
 https://github.com/Swapnil-salunke12/Static-Website-with-GitHub.git
 
+open to browser 
+https://swapnil-salunke12.github.io/Static-Website-with-GitHub/
