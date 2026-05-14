@@ -41,5 +41,5 @@ cd path/to/Task 6 Static Web Deployment
 
 ### Link to visit the deployed website
 ```bash
-https://gaurajjadhav.github.io/Static-Website-with-GitHub/
+https://github.com/Swapnil-salunke12/Static-Website-with-GitHub.git
 
